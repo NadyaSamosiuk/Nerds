@@ -1,3 +1,3 @@
 # Nerds
-Адаптивная вёрстка сайта(с использованием HTML и CSS)  
+Адаптивная вёрстка сайта(HTML и CSS)  
 https://nadyasamosiuk.github.io/Nerds/
